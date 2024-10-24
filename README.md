@@ -1,18 +1,13 @@
 # Project Name 🚀
 
-![Project Logo](path-to-your-logo.png)
+![Project Logo]([logo](https://github.com/user-attachments/assets/43c9be5a-d060-429e-b469-6e39047246cb)
+logo.png)
 
 > A brief description of your project. Explain its purpose and the problem it solves in 1-2 sentences.
 
 ---
 
 ## Table of Contents 📑
-- [Features](#features-)
-- [Installation](#installation-)
-- [Usage](#usage-)
-- [Screenshots](#screenshots-)
-- [Technologies](#technologies-)
-- [Contributing](#contributing-)
 - [License](#license-)
 - [Contact](#contact-)
 
