@@ -1,0 +1,7 @@
+[build]
+  publish = "The-Webshop-5e9bb8820470-e375a78bbe75/public"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200 
